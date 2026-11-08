@@ -1,0 +1,13 @@
+# confidential input pack and generated outputs: never commit
+data/
+outputs/
+*.zip
+# secrets
+.env
+.streamlit/secrets.toml
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/

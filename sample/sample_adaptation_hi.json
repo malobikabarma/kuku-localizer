@@ -1,0 +1,80 @@
+{
+  "note": "Hand-written Hindi adaptation of the original demo script. Two mistakes are planted on purpose (a misspelled name and an over-long line) so the QA has something real to catch. The judge verdict is stored, so the demo needs no API key.",
+  "targets_by_english": {
+    "This can't be his father's file.": "ये उसके पापा की फ़ाइल नहीं है।",
+    "There's no surgery. There was never any surgery.": "कोई सर्जरी नहीं। कभी हुई ही नहीं।",
+    "Meera! Everyone's waiting downstairs.": "मिरा! नीचे सब इंतज़ार कर रहे हैं।",
+    "Where did my two lakh rupees go, Rohan?": "मेरे दो लाख रुपये कहाँ गए, रोहन?",
+    "I told you. Papa's operation.": "कहा था ना, पापा का ऑपरेशन।",
+    "Papa's operation is not in this file. Papa is not even admitted here.": "इस फ़ाइल में कोई ऑपरेशन नहीं है, और तुम्हारे पापा तो इस हॉस्पिटल में भर्ती तक नहीं हैं।",
+    "You went through hospital records? For me?": "मेरे लिए रिकॉर्ड खंगाले तुमने?",
+    "I went through them because I trusted you.": "खंगाले, क्योंकि तुम पर भरोसा था।",
+    "Then you should have trusted me a little longer.": "तो थोड़ा और भरोसा कर लेती।",
+    "Meera beti, don't go to the engagement.": "मीरा बिटिया, सगाई में मत जाना।",
+    "Kaka? How do you know?": "काका? आपको कैसे पता?",
+    "Because that boy came here last month with another girl.": "वो लड़का पिछले महीने एक और लड़की के साथ आया था।",
+    "Another girl?": "दूसरी लड़की?",
+    "She signed the same kind of loan papers you did.": "उसने भी वैसे ही लोन के कागज़ों पर साइन किए थे।",
+    "Where is she now?": "वो अब कहाँ है?",
+    "Ward number seven.": "वार्ड नंबर सात।",
+    "She hasn't woken up since.": "तब से उसे होश नहीं आया।"
+  },
+  "judge": {
+    "hook_preserved": true,
+    "hook_reason": "The opening keeps Meera's whispered shock and the repeated 'surgery' beat, so the reveal still lands in the first five seconds.",
+    "hook_fix": "",
+    "cliffhanger_preserved": true,
+    "cliffhanger_reason": "'तब से उसे होश नहीं आया' keeps the unresolved threat; the ward number gives the viewer a concrete hook for the next episode.",
+    "cliffhanger_fix": "",
+    "unnatural_lines_by_english": [
+      {
+        "english": "Then you should have trusted me a little longer.",
+        "reason": "Correct but flatter than the English: Rohan's cold threat turns into mild advice.",
+        "suggestion": "तो कुछ दिन और भरोसा कर लेती।"
+      }
+    ]
+  },
+  "glossary": [
+    {
+      "kind": "character",
+      "english": "Meera",
+      "target": "मीरा",
+      "aliases": [
+        "MEERA"
+      ],
+      "note": "Lead. Nurse. Uses 'आप' with Kaka, 'तुम' with Rohan."
+    },
+    {
+      "kind": "character",
+      "english": "Rohan",
+      "target": "रोहन",
+      "aliases": [
+        "ROHAN"
+      ],
+      "note": "Meera's fiancé. Uses 'तुम' with Meera."
+    },
+    {
+      "kind": "character",
+      "english": "Kaka",
+      "target": "काका",
+      "aliases": [
+        "KAKA"
+      ],
+      "note": "Old ward-boy. Calls Meera 'बिटिया'."
+    },
+    {
+      "kind": "term",
+      "english": "engagement",
+      "target": "सगाई",
+      "aliases": [],
+      "note": "Not 'इंगेजमेंट'."
+    },
+    {
+      "kind": "term",
+      "english": "Ward number seven",
+      "target": "वार्ड नंबर सात",
+      "aliases": [],
+      "note": "Plot point: keep exact."
+    }
+  ]
+}

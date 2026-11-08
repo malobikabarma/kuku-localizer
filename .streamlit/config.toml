@@ -1,0 +1,23 @@
+[theme]
+base = "dark"
+primaryColor = "#FF7A1A"
+backgroundColor = "#15111C"
+secondaryBackgroundColor = "#221B2C"
+textColor = "#F5EFF7"
+borderColor = "#3A3046"
+font = "Mukta:https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Baloo 2:https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&display=swap, sans-serif"
+baseRadius = "10px"
+
+[theme.sidebar]
+backgroundColor = "#1C1624"
+secondaryBackgroundColor = "#2A2235"
+
+[server]
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"

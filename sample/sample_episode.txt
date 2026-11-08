@@ -1,0 +1,117 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Hours before her engagement, nurse Meera finds a hospital file proving her fiancé Rohan lied about his father's surgery to take her savings, and an old ward-boy warns her the truth is far worse.
+CONTINUITY NOTES: Original demo script written for the Kuku Localizer repository. It is not taken from any client material.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CITY HOSPITAL CORRIDOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:30.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Close-up of Meera's hands opening a hospital file under a flickering tube light.
+
+**MEERA (Shocked, Whispering):**
+Start: (00:01.20) | End: (00:03.40)
+"This can't be his father's file."
+
+**MEERA (Disbelieving):**
+Start: (00:03.60) | End: (00:06.40)
+"There's no surgery. There was never any surgery."
+
+**ACTION:**
+Start: (00:06.00) | End: (00:08.00)
+Footsteps. Rohan appears at the end of the corridor, holding a bouquet of marigolds.
+
+**ROHAN (Cheerful, Unaware):**
+Start: (00:08.20) | End: (00:10.20)
+"Meera! Everyone's waiting downstairs."
+
+**MEERA (Cold):**
+Start: (00:10.80) | End: (00:13.00)
+"Where did my two lakh rupees go, Rohan?"
+
+**ROHAN (Caught, Nervous):**
+Start: (00:13.40) | End: (00:15.20)
+"I told you. Papa's operation."
+
+**MEERA (Rising Anger):**
+Start: (00:15.60) | End: (00:19.40)
+"Papa's operation is not in this file. Papa is not even admitted here."
+
+**ROHAN (Defensive):**
+Start: (00:19.80) | End: (00:21.60)
+"You went through hospital records? For me?"
+
+**MEERA (Hurt):**
+Start: (00:22.00) | End: (00:24.40)
+"I went through them because I trusted you."
+
+**ROHAN (Cold, Dropping the Act):**
+Start: (00:25.00) | End: (00:27.60)
+"Then you should have trusted me a little longer."
+
+**ACTION:**
+Start: (00:27.60) | End: (00:30.00)
+Meera turns away and pushes through the stairwell door.
+
+SCENE 02
+Scene heading: INT. HOSPITAL STAIRWELL – CONTINUOUS
+Scene start: 00:30.00
+Scene end: 00:58.00
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:30.00) | End: (00:32.50)
+Meera rushes down the stairs, the file pressed to her chest. Kaka, an old ward-boy, blocks her way.
+
+**KAKA (Low, Urgent):**
+Start: (00:33.00) | End: (00:35.20)
+"Meera beti, don't go to the engagement."
+
+**MEERA (Startled):**
+Start: (00:35.60) | End: (00:37.00)
+"Kaka? How do you know?"
+
+**KAKA (Grave):**
+Start: (00:37.40) | End: (00:40.60)
+"Because that boy came here last month with another girl."
+
+**MEERA (Breathless):**
+Start: (00:41.00) | End: (00:42.20)
+"Another girl?"
+
+**KAKA (Hushed):**
+Start: (00:42.60) | End: (00:45.40)
+"She signed the same kind of loan papers you did."
+
+**MEERA (Trembling):**
+Start: (00:45.80) | End: (00:47.60)
+"Where is she now?"
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:51.00)
+Close-up of Kaka's face as he hesitates.
+
+**KAKA (Whispering, Fearful):**
+Start: (00:51.20) | End: (00:53.00)
+"Ward number seven."
+
+**KAKA (Whispering):**
+Start: (00:53.40) | End: (00:55.20)
+"She hasn't woken up since."
+
+**SOUND FX:**
+Start: (00:55.00) | End: (00:57.00)
+A sharp music sting.
+
+**CAMERA:**
+Start: (00:55.20) | End: (00:58.00)
+Extreme close-up of Meera's eyes widening as the stairwell light goes out. Cut to black.
+
+--- SCRIPT END ---
